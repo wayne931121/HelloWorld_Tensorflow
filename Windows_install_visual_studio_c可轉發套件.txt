@@ -1,0 +1,9 @@
+# 此文件及方法 2020/3/11 編寫 & 適用
+
+下載完後可做這些事 : https://docs.microsoft.com/zh-tw/cpp/build/walkthrough-compile-a-c-program-on-the-command-line?view=msvc-170
+
+1. 至官網下載 Visual Studio Community (Visual Studio Installer)
+
+2. 下載時勾選 Desktop development with C++ (使用c++的桌面開發) (Build modern C++ apps for Windows using tools of your choice, incilding MSVC, Clang, Cmake, or MSBuild.
+
+3. 完成
